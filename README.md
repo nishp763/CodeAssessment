@@ -1,6 +1,6 @@
 # CodeAssessment
 
-### [Shopping Problem]
+### Shopping Problem
 ```python
 import operator
 
@@ -51,7 +51,7 @@ if __name__ == "__main__":
   <img src="img/ShoppingProblemDemo.gif"/>
 </p>
 
-### [Character At K]
+### Character At K
 ```python
 def PrintList(list_to_print):
     for item in list_to_print:
